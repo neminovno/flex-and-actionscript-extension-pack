@@ -1,0 +1,32 @@
+{
+    "name": "flex-and-actionscript-extension-pack",
+    "displayName": "Flex and ActionScript Extension Pack",
+    "description": "Includes extensions for Flex and ActionScript development",
+    "version": "0.0.1",
+    "publisher": "neminovno",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "flex",
+        "actionscript",
+        "mxml",
+        "air"
+    ],
+    "homepage": "https://github.com/neminovno/flex-and-actionscript-extension-pack/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/neminovno/flex-and-actionscript-extension-pack/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/neminovno/flex-and-actionscript-extension-pack.git"
+    },
+    "extensionPack": [ 
+        "bowlerhatllc.vscode-nextgenas", 
+        "neminovno.vscode-as-fx-ide", 
+        "neminovno.vscode-flex-snippets"
+    ]
+}
